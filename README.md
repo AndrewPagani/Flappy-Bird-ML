@@ -1,11 +1,11 @@
 Um projeto educativo onde o computador aprende sozinho a jogar Flappy Bird. O objetivo é mostrar na prática como funciona a Inteligência Artificial e a criação de jogos de forma fácil e visual.
 
-- Tecnologias
+Tecnologias
  * Python
  * Pygame
  * Neat-Python
 
- - Como a IA aprende?
+Como a IA aprende?
 Tentativa → Erro → Seleção dos melhores → Reprodução → Nova geração → Evolução
 
  - Como testar no seu PC
