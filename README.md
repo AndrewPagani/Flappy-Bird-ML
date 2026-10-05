@@ -6,15 +6,17 @@ Tecnologias
  * Neat-Python
 
 Como a IA aprende?
-Tentativa → Erro → Seleção dos melhores → Reprodução → Nova geração → Evolução
 
- - Como testar no seu PC
-1. Certifique-se de ter o Python instalado no seu computador.
+* Tentativa → Erro → Seleção dos melhores → Reprodução → Nova geração → Evolução
+
+Como testar no seu PC
+
+ 1. Certifique-se de ter o Python instalado no seu computador.
    
-2. Abra o terminal na pasta do jogo e instale as bibliotecas digitando:
+ 2. Abra o terminal na pasta do jogo e instale as bibliotecas digitando:
 
-" pip install pygame neat-python "
+-  pip install pygame neat-python
 
-3. Inicie o jogo rodando o script principal:
+ 3. Inicie o jogo rodando o script principal:
 
-" python "Flappy Bird.py " 
+-  python "Flappy Bird.py 
