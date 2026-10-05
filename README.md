@@ -19,4 +19,4 @@ Como testar no seu PC
 
  3. Inicie o jogo rodando o script principal:
 
--  python "Flappy Bird.py 
+-  python "Flappy Bird.py"
